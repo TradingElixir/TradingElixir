@@ -18,7 +18,7 @@
 - 🌐 **Expert in Blockchain Dapps(Ethereum, Solana, zk-Rollups), Smart Contracts & AI-driven Web3 applications**
 - 💡 **Led multiple NFT collections & token launches, generating $400K+ in initial sales**
 - 📊 **Secured investments from Polygon Ventures, Jungle Ventures , tykhe & block ventures and many more...**
-- 🔍 **Experienced in Mixpanel analytics, UI/UX designing and product ownership. Delivered 11+ DeFi & Web3 products**
+- 🔍 **Experienced in Mixpanel analytics, UI/UX designing and Product Ownership. Delivered 11+ DeFi & Web3 products**
 - 📫 **Email:** sachin11061997@gmail.com | 📱 **WhatsApp:** [+91 7057480940](https://wa.me/917057480940)
 
 <h2 align="left" id="sachinyadav-tech">Favorite Tech</h2>
