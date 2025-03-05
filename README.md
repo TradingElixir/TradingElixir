@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=Sachin1106&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views: 76+ (increasing weekly)" />
   </a>
   <a href="https://5ach1n.vercel.app/">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fsachin-yadav-web3">
+    <img alt="Website" src="https://img.shields.io/website?url=https://5ach1n.vercel.app/">
   </a>
   <a href="https://www.linkedin.com/in/sachin-yadav-web3/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sachin%20Yadav-blue" />
