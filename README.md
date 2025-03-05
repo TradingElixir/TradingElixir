@@ -17,7 +17,7 @@
 </p>
 
 <a href="#sachinyadav-title">
-  <img src="https://raw.githubusercontent.com/Sachin1106/github-stats-transparent/output/generated/overview.svg" alt="Sachin Yadav" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachin1106&show_icons=true&theme=radical" alt="Sachin's GitHub Stats" />
 </a>
 
 - 🚀 **Currently a Technical Product Manager @ Pluto (Dubai, UAE)**
@@ -25,7 +25,7 @@
 - 💡 **Led multiple NFT collections & token launches, generating $200K+ in initial sales**
 - 📊 **Secured investments from Polygon Ventures & Jungle Ventures**
 - 🔍 **Experienced in Mixpanel analytics, UI/UX optimization, and scaling DeFi & Web3 products**
-- 🎓 **MBA from IIM Bangalore | B.Tech in Computer Science (9.89 CGPA)**
+- 🎯 **GMAT 100%ile | CAT 98.7%ile**
 - 📫 **Email:** sachin11061997@gmail.com | 📱 **WhatsApp:** [+91 7057480940](https://wa.me/917057480940)
 
 <h2 align="left" id="sachinyadav-tech">Favorite Tech</h2>
@@ -36,13 +36,13 @@
   <tr>
     <td align="center" width="96">
       <a href="#sachinyadav-tech">
-        <img src="https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/static/eth-diamond-purple.png" width="48" height="48" alt="Ethereum" />
+        <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="48" height="48" alt="Ethereum" />
       </a>
       <br>Ethereum
     </td>
     <td align="center" width="96">
       <a href="#sachinyadav-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" width="48" height="48" alt="Solana" />
+        <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="48" height="48" alt="Solana" />
       </a>
       <br>Solana
     </td>
@@ -54,7 +54,7 @@
     </td>
     <td align="center" width="96">
       <a href="#sachinyadav-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Web3.js_logo.svg/1024px-Web3.js_logo.svg.png" width="48" height="48" alt="Web3.js" />
+        <img src="https://avatars.githubusercontent.com/u/22245983?s=200&v=4" width="48" height="48" alt="Web3.js" />
       </a>
       <br>Web3.js
     </td>
@@ -84,11 +84,5 @@
     </td>
   </tr>
 </table>
-
-<h2 align="left">📈 GitHub Stats</h2>
-
-<a href="#sachinyadav-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachin1106&show_icons=true&theme=radical" alt="Sachin's GitHub Stats" />
-</a>
 
 🚀 **Let’s build the future of Blockchain & AI together!** 🌍
