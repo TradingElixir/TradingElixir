@@ -71,7 +71,7 @@
     </td>
     <td align="center" width="96">
       <a href="#sachinyadav-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Golang.png" width="48" height="48" alt="Go" />
+        <img src="https://imgs.search.brave.com/owMOoPjzuk0zUm0GfDqWvodFjtElRYVY5mDXATJmL6M/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL2dvbGFu/Zy1nbzczMTguanBn" width="48" height="48" alt="Go" />
       </a>
       <br>GoLang
     </td>
