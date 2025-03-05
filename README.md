@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/Sachin1106">
-    <img src="https://komarev.com/ghpvc/?username=Sachin1106" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=Sachin1106&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views: 76+ (increasing weekly)" />
   </a>
   <a href="https://sachin-yadav-web3">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fsachin-yadav-web3">
@@ -11,14 +11,7 @@
   <a href="https://www.linkedin.com/in/sachinyadav">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sachin%20Yadav-blue" />
   </a>
-  <a href="https://github.com/Sachin1106?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sachin1106?style=flat&logo=github">
-  </a>
 </p>
-
-<a href="#sachinyadav-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sachin1106&show_icons=true&theme=radical" alt="Sachin's GitHub Stats" />
-</a>
 
 - 🚀 **Currently a Technical Product Manager @ Pluto (Dubai, UAE)**
 - 🌐 **Expert in Blockchain (Ethereum, Solana, zk-Rollups), Smart Contracts & AI-driven Web3 applications**
@@ -48,13 +41,13 @@
     </td>
     <td align="center" width="96">
       <a href="#sachinyadav-tech">
-        <img src="https://seeklogo.com/images/S/solidity-logo-792ECD35F8-seeklogo.com.png" width="48" height="48" alt="Solidity" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/SmartContract_logo.svg" width="48" height="48" alt="Solidity" />
       </a>
       <br>Solidity
     </td>
     <td align="center" width="96">
       <a href="#sachinyadav-tech">
-        <img src="https://avatars.githubusercontent.com/u/22245983?s=200&v=4" width="48" height="48" alt="Web3.js" />
+        <img src="https://logowik.com/content/uploads/images/web3js3754.jpg" width="48" height="48" alt="Web3.js" />
       </a>
       <br>Web3.js
     </td>
@@ -81,6 +74,24 @@
         <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Golang.png" width="48" height="48" alt="Go" />
+      </a>
+      <br>GoLang
+    </td>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS (EKS, Load Balancing, Scaling)
     </td>
   </tr>
 </table>
