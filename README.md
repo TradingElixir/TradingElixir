@@ -85,7 +85,7 @@
       <a href="#sachinyadav-tech">
         <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="48" height="48" alt="AWS" />
       </a>
-      <br>AWS (EKS, Load Balancing, Scaling)
+      <br>AWS (EKS,ECS,EC2)
     </td>
   </tr>
 </table>
