@@ -14,11 +14,11 @@
 </p>
 
 - 🚀 **Currently a Technical Product Manager @ Pluto (Dubai, UAE)**
-- 🌐 **Expert in Blockchain (Ethereum, Solana, zk-Rollups), Smart Contracts & AI-driven Web3 applications**
-- 💡 **Led multiple NFT collections & token launches, generating $200K+ in initial sales**
-- 📊 **Secured investments from Polygon Ventures & Jungle Ventures**
-- 🔍 **Experienced in Mixpanel analytics, UI/UX optimization, and scaling DeFi & Web3 products**
 - 🎯 **GMAT 100%ile | CAT 98.7%ile**
+- 🌐 **Expert in Blockchain Dapps(Ethereum, Solana, zk-Rollups), Smart Contracts & AI-driven Web3 applications**
+- 💡 **Led multiple NFT collections & token launches, generating $400K+ in initial sales**
+- 📊 **Secured investments from Polygon Ventures, Jungle Ventures , tykhe & block ventures and many more...**
+- 🔍 **Experienced in Mixpanel analytics, UI/UX designing and product ownership. Delivered 11+ DeFi & Web3 products**
 - 📫 **Email:** sachin11061997@gmail.com | 📱 **WhatsApp:** [+91 7057480940](https://wa.me/917057480940)
 
 <h2 align="left" id="sachinyadav-tech">Favorite Tech</h2>
@@ -41,15 +41,9 @@
     </td>
     <td align="center" width="96">
       <a href="#sachinyadav-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/SmartContract_logo.svg" width="48" height="48" alt="Solidity" />
+        <img src="https://imgs.search.brave.com/THyHy-QX4QKvRPeiDX4NhlRVJKuU4fn3YJol4gQP6Nc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5Lzc4Lzk4LzE4/LzM2MF9GXzk3ODk4/MTg2Nl9TN2lRa0Nj/eE42WjB1TUhxbjZR/cUJxSU1MZXk5V0lO/Wi5qcGc" width="48" height="48" alt="Solidity" />
       </a>
       <br>Solidity
-    </td>
-    <td align="center" width="96">
-      <a href="#sachinyadav-tech">
-        <img src="https://logowik.com/content/uploads/images/web3js3754.jpg" width="48" height="48" alt="Web3.js" />
-      </a>
-      <br>Web3.js
     </td>
     <td align="center" width="96"> 
       <a href="#sachinyadav-tech">
