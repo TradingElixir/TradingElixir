@@ -121,7 +121,7 @@
     </td>
     <td align="center" width="96">
       <a href="#sachinyadav-tech">
-        <img src="https://api.iconify.design/devicon/langchain.svg" width="48" height="48" alt="LangChain" />
+        <img src="https://imgs.search.brave.com/l-JxEcmSVXGUC-FUW5fPjDzFvGWHpCeiJMw8Hclw2CI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yZWdp/c3RyeS5ucG1taXJy/b3IuY29tL0Bsb2Jl/aHViL2ljb25zLXN0/YXRpYy1wbmcvbGF0/ZXN0L2ZpbGVzL2Rh/cmsvbGFuZ2NoYWlu/LWNvbG9yLnBuZw" width="48" height="48" alt="LangChain" />
       </a>
       <br>LangChain
     </td>
@@ -208,7 +208,7 @@
     <td>solana-batch-mint</td>
   </tr>
   <tr>
-    <td><strong>Not specified</strong></td>
+    <td><strong>Miscelleneous</strong></td>
     <td>
       not-your-averagetechie, chrome-ext, chrome-extension, script, intract-assng, 
       ethereum, A2, alpha, platter-1, gigagodz, yes, Gigaverse-ecosystem
