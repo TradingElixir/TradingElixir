@@ -88,6 +88,68 @@
       <br>AWS (EKS,ECS,EC2)
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="ChatGPT" />
+      </a>
+      <br>ChatGPT
+    </td>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://api.iconify.design/simple-icons/tensorflow.svg" width="48" height="48" alt="TensorFlow" />
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" width="48" height="48" alt="PyTorch" />
+      </a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="48" height="48" alt="OpenCV" />
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+      </a>
+      <br>Scikit-learn
+    </td>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://api.iconify.design/devicon/langchain.svg" width="48" height="48" alt="LangChain" />
+      </a>
+      <br>LangChain
+    </td>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
+      </a>
+      <br>Hugging Face
+    </td>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" width="48" height="48" alt="NLTK" />
+      </a>
+      <br>NLTK
+    </td>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy" />
+      </a>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <a href="#sachinyadav-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+  </tr>
 </table>
 
 <h2 align="left" id="sachinyadav-projects">GitHub Projects by Technology</h2>
@@ -145,7 +207,13 @@
     <td><strong>Shell</strong></td>
     <td>solana-batch-mint</td>
   </tr>
-  
+  <tr>
+    <td><strong>Not specified</strong></td>
+    <td>
+      not-your-averagetechie, chrome-ext, chrome-extension, script, intract-assng, 
+      ethereum, A2, alpha, platter-1, gigagodz, yes, Gigaverse-ecosystem
+    </td>
+  </tr>
 </table>
 
 🚀 **Let's build the future of Blockchain & AI together!** 🌍
