@@ -90,4 +90,62 @@
   </tr>
 </table>
 
-🚀 **Let’s build the future of Blockchain & AI together!** 🌍
+<h2 align="left" id="sachinyadav-projects">GitHub Projects by Technology</h2>
+
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Repositories</th>
+  </tr>
+  <tr>
+    <td><strong>TypeScript</strong></td>
+    <td>
+      agw-connectkit-nextjs, social, Platter-frontend, sachin-curve, frontend-assignment, 
+      platter-dapp, defi-sdk-demo-master, Platter-Alpha, Alpha-Platter-master, ethereum-boilerplate-main1, 
+      Alpha-Platte, Alpha-Platter, candy, test-candy, all-walllet, candy-machine-v2-with-marketplace, 
+      Gigaverse-Docs, gigaverse-mintbase, gigaverse-documents, gigaverse-metaplex-docs
+    </td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>
+      ugc.fun, ugc-dot-fun, waitlist, graph-chart, sachin-portfolio, Platter-frontend-nextjs, 
+      Platter-backend, Platter1, platter, platter-main, react-spa-demo, plane-minting, react-website
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Vue</strong></td>
+    <td>magicbatch-nftstats, pluto-staking-stats</td>
+  </tr>
+  <tr>
+    <td><strong>Go</strong></td>
+    <td>ugc-backend, discord-inviter-GO</td>
+  </tr>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td>Linkedin_AI, rainbow, Discord-server-joiner, Discord-token-joiner</td>
+  </tr>
+  <tr>
+    <td><strong>Jupyter Notebook</strong></td>
+    <td>blaster.ai</td>
+  </tr>
+  <tr>
+    <td><strong>CSS</strong></td>
+    <td>av-jewel, curve.fi-master</td>
+  </tr>
+  <tr>
+    <td><strong>HTML</strong></td>
+    <td>simple, mintgiga</td>
+  </tr>
+  <tr>
+    <td><strong>Svelte</strong></td>
+    <td>solana-wallet</td>
+  </tr>
+  <tr>
+    <td><strong>Shell</strong></td>
+    <td>solana-batch-mint</td>
+  </tr>
+  
+</table>
+
+🚀 **Let's build the future of Blockchain & AI together!** 🌍
